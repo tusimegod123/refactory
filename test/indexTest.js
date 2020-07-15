@@ -1,7 +1,7 @@
 /* eslint-disable no-undef */
 const chai = require('chai');
 const assertArrays = require('chai-arrays');
-const computeGeometries = require('../final.js');
+const computeGeometries = require('../index.js');
 // eslint-disable-next-line prefer-destructuring
 const expect = chai.expect;
 
