@@ -1,0 +1,33 @@
+{
+  "name": "refactory",
+  "version": "1.0.0",
+  "description": "",
+  "main": "codelabone.js",
+  "scripts": {
+    "test": "mocha || True "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tusimegod123/refactory.git"
+  },
+  "author": "Godwin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tusimegod123/refactory/issues"
+  },
+  "homepage": "https://github.com/tusimegod123/refactory#readme",
+  "dependencies": {
+    "airbnb": "0.0.2",
+    "chai": "^4.2.0",
+    "chai-arrays": "^2.2.0",
+    "mocha": "^8.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.2.0",
+    "eslint-config-airbnb": "^18.2.0",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-jsx-a11y": "^6.3.1",
+    "eslint-plugin-react": "^7.20.3",
+    "eslint-plugin-react-hooks": "^4.0.0"
+  }
+}
