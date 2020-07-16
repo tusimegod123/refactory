@@ -12,6 +12,9 @@ const array1 = [3, 4];
 const array2 = [4, 5];
 const array3 = [3, 7];
 
+const myFunctions = { perimeterOfRectangle1, circumferenceOfAcircle };
+module.exports = myFunctions;
+
 function areaOfAcircle() {
     const areaOfaCircle = pi * radius * radius;
     return areaOfaCircle;
