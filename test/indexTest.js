@@ -24,8 +24,6 @@ describe('perimeterOfRectangle1', () => {
 
 describe("Calculate Circumference of circle", () => {
     it("should calculate the circumference of a circle", () => {
-        expect(myFunctions.circumferenceOfAcircle(2)).to.equal(
-            12.571428571428571
-        );
+        expect(myFunctions.circumferenceOfAcircle(2)).to.equal(12.571428571428571);
     });
 });
